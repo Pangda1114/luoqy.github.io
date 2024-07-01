@@ -9,7 +9,7 @@ redirect_from:
 
 About Myself
 ------
-I'm Qiyan Luo, a first-year graduate student from [State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing (LIESMARS)](https://liesmars.whu.edu.cn/index.htm), [Wuhan University](https://www.pku.edu.cn/). I am very fortunate to be advised by [Prof. Mi Wang in RSOne](http://rsone.whu.edu.cn/). My primary research focus is on satellite imagery. My research interests include high-accuracy positioning refinement for satellite products, computer vision, and AI for Remote Sensing (AI4RS).
+I'm Qiyan Luo, a first-year graduate student from [State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing (LIESMARS)](https://liesmars.whu.edu.cn/index.htm), [Wuhan University](https://www.whu.edu.cn/). I am very fortunate to be advised by [Prof. Mi Wang in RSOne](http://rsone.whu.edu.cn/). My primary research focus is on satellite imagery. My research interests include high-accuracy positioning refinement for satellite products, computer vision, and AI for Remote Sensing (AI4RS).
 
 I received my B.S. Degree in Remote Sensing Science and Technology from [School of Geospatial Engineering and Science](https://sges.sysu.edu.cn/), [Sun Yat-sen University](https://www.sysu.edu.cn/), supervised by [Prof. Xu Huang](https://sges.sysu.edu.cn/teacher/603).
 
