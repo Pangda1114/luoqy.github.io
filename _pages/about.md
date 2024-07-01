@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 About Myself
-======
+------
 I'm Qiyan Luo, a first-year graduate student from [State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing (LIESMARS)](https://liesmars.whu.edu.cn/index.htm), [Wuhan University](https://www.pku.edu.cn/). I am very fortunate to be advised by [Prof. Mi Wang in RSOne](http://rsone.whu.edu.cn/). My primary research focus is on satellite imagery. My research interests include high-accuracy positioning refinement for satellite products, computer vision, and AI for Remote Sensing (AI4RS).
 
 I received my B.S. Degree in Remote Sensing Science and Technology from [School of Geospatial Engineering and Science](https://sges.sysu.edu.cn/), [Sun Yat-sen University](https://www.sysu.edu.cn/), supervised by [Prof. Xu Huang](https://sges.sysu.edu.cn/teacher/603).
@@ -16,7 +16,7 @@ I received my B.S. Degree in Remote Sensing Science and Technology from [School 
 I am a self-motivated individual with a strong exploratory interest in research. I believe that communication and collaboration are significant sources of inspiration for research. I am always open to discussions and look forward to exchanging ideas!
 
 Publications and Awards
-======
+------
 2024.6, I have been awarded the 2024 Outstanding Undergraduate Student of Sun Yat-sen University!
 
 2024.5, our team RSONE_Change_Detection (Me, Lekang Wen, supervisors: Jing Xiao, Mi Wang) won the 7-th place of Change Detection in High-resolutionand Multi-temporal Optical Images in 2024 ISPRS TC Ⅰ Contest on Intelligent interpretation for Multi-modal Remote Sensing Application!
